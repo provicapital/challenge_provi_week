@@ -50,7 +50,7 @@ O objetivo é construir um software que administrará um sistema de login. Em um
 
 - Treinamento da [ProviCapital] para ajudar estudantes a conseguirem um emprego
 - Vídeo do primeiro encontro da [Provi Week]
-- Lembre-se que você não está sozinho! A ideia aqui é aprender e evoluir, então separe as dúvidas que forem surgindo e não se esqueça de se inscrever em um dos horários das sessões de mentoria que vão rolar durante a semana. Se inscreva clicando [AQUI]
+- Lembre-se que você não está sozinho! A ideia aqui é aprender e evoluir, então separe as dúvidas que forem surgindo e não se esqueça de se inscrever em um dos horários das sessões de mentoria que vão rolar durante a semana. Se inscreva [clicando AQUI]
 
 ### 💯  Quer ir além?
 
@@ -67,6 +67,6 @@ O objetivo é construir um software que administrará um sistema de login. Em um
 
 [luiza.costa@provi.com.br]: mailto:luiza.costa@provi.com.br
 
-[AQUI]: https://docs.google.com/forms/d/e/1FAIpQLScb1ITQ0F6zNHD7jpCwQudOZMANHelZBCtHRFUyV__WJH908Q/viewform
+[clicando AQUI]: https://docs.google.com/forms/d/e/1FAIpQLScb1ITQ0F6zNHD7jpCwQudOZMANHelZBCtHRFUyV__WJH908Q/viewform
 
 [Inscreva-se aqui]: https://docs.google.com/forms/d/e/1FAIpQLScb1ITQ0F6zNHD7jpCwQudOZMANHelZBCtHRFUyV__WJH908Q/viewform
