@@ -39,14 +39,14 @@ O objetivo é construir um software que administrará um sistema de login. Em um
 - Sua capacidade de seguir regras estritas de negócios
 - Sua capacidade de escrever código modular testável
 
-### ⚠️ What you do not need to do:
+### ⚠️ O que você NÃO precisa fazer: 
 
 - Integrar um banco de dados real
 - Criar APIs
 - Criar uma interface de front-end
 - Fazer deploy do código
 
-### 🤓 Useful resources:
+### 🤓 Recursos úteis:
 
 - Treinamento da [ProviCapital] para ajudar estudantes a conseguirem um emprego
 - Vídeo do primeiro encontro da [Provi Week]
@@ -67,6 +67,6 @@ Se voluntarie para participar da simulação da entrevista técnica. Oportunidad
 
 [luiza.costa@provi.com.br]: mailto:luiza.costa@provi.com.br
 
-[AQUI]: https://forms.gle/KQTvbTXmPH9TDNoy8
+[AQUI]: https://docs.google.com/forms/d/e/1FAIpQLScb1ITQ0F6zNHD7jpCwQudOZMANHelZBCtHRFUyV__WJH908Q/viewform
 
-[Inscreva-se aqui]: https://forms.gle/KQTvbTXmPH9TDNoy8
+[Inscreva-se aqui]: https://docs.google.com/forms/d/e/1FAIpQLScb1ITQ0F6zNHD7jpCwQudOZMANHelZBCtHRFUyV__WJH908Q/viewform
