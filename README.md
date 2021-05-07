@@ -1,61 +1,63 @@
-![Provi Tech Team](./img/background.jpg)
+![Provi Tech Team](./img/Capa.png)
 
 # Provi Week Challenge
 
-The [Provi Week] is an initiative from [@provicapital] to help students to be hired as developers 🐱‍💻
+A [Provi Week] é uma iniciativa da [@provicapital] para ajudar estudantes da nossa comunidade a conseguirem um emprego no mercado de tecnologia 🐱‍💻
 
-## Context
 
-- We talked a [little about it here], you can watch again if you want to
-- The idea is to build a small application to practice structured thinking, OOP, tests, modularity and abstraction
+## Contexto
 
-## 🥋 The challenge
+- [Aqui] você encontra um pouco sobre o que já conversamos em nosso primeiro encontro - fique à vontade para assistir novamente 
+- A ideia é oferecer um espaço seguro para evoluir habilidades importantes para o mercado de trabalha através da criação de uma aplicação simples para praticar pensamento estruturado, OOP, testes, modularidade e abstração
 
-The goal is to ship a piece of software that will handle a login system. In a normal login system, you usually can:
+## 🥋 O desafio
 
-1. login
-1. logout
-1. reset your password
-1. change password
-1. change email
-1. avoid email duplication
-1. get information about the sessions of the users
+O objetivo é construir um software que administrará um sistema de login. Em um sistema de login normal, você geralmente pode:
 
-### 📦 What are the deliverables:
+1. Fazer login
+1. Fazer logout
+1. Redefinir senha
+1. Alterar senha
+1. Alterar o e-mail
+1. Evitar e-mails duplicados
+1. Obter informações sobre as sessões dos usuários
 
-- It should use a fake, temporary, in memory database, like a javascript `Array` or `Object`, or a python `dict`
-  or `list`
-- It should use Object-Oriented Programming (classes, methods, inheritance)
-- It should have an executable file (e.g: `index.js` or `main.py`) where all the logic is executed
-- It should have tests for the main logic
-- It should be documented
-- It should focus on code reusability and modularity
-- It should be open sourced on your GitHub repo
+### 📦 Quais são os entregáveis:
 
-### ✔️ What we would like to see
+- Fazer uso de um banco de dados de memória falso e temporário, como javascript `Array` ou `Object`, ou um python `dict`
+  ou `list`
+- Deve usar Programação Orientada a Objetos (classes, métodos, herança)
+- Deve ter um arquivo executável (ex: `index.js` ou `main.py`) onde toda a lógica é executada
+- Deve ter testes para a lógica principal
+- Deve ser documentado
+- Deve focar na reutilização e modularidade do código
+- Deve ser open source ou público em seu repositório GitHub
 
-- evaluate your ability to think in a structured way
-- evaluate your ability to follow strict business rules
-- evaluate your ability to write modular, testable code
+### ✔️ O que vamos gostar de ver
+
+- Sua capacidade de pensar de forma estruturada
+- Sua capacidade de seguir regras estritas de negócios
+- Sua capacidade de escrever código modular testável
 
 ### ⚠️ What you do not need to do:
 
-- integrate a real database
-- create APIs
-- create a frontend interface
-- deploy this code somewhere
+- Integrar um banco de dados real
+- Criar APIs
+- Criar uma interface de front-end
+- Fazer deploy do código
 
 ### 🤓 Useful resources:
 
-- [ProviCapital] training to help our students to be hired
-- First video of the [Provi Week]
+- Treinamento da [ProviCapital] para ajudar estudantes a conseguirem um emprego
+- Vídeo do primeiro encontro da [Provi Week]
+- Lembre-se que você não está sozinho! A ideia aqui é aprender e evoluir, então separe as dúvidas que forem surgindo e não se esqueça de se inscrever em um dos horários das sessões de mentoria que vão rolar durante a semana. Se inscreva clicando [AQUI]
 
-### 💯 Just finished?
+### 💯  Quer ir além?
 
-Great work! Send it to [luiza.costa@provi.com.br] and you will receive instructions to the next step
+Se voluntarie para participar da simulação da entrevista técnica. Oportunidade para você fazer a resolução do seu desafio e receber feedbacks ao vivo do nosso CTO para evoluir ainda mais! [Inscreva-se aqui]
 
 
-[little about it here]: https://youtu.be/WOHqkmA0O8U
+[Aqui]: https://www.youtube.com/watch?v=WOHqkmA0O8U
 
 [Provi Week]: https://youtu.be/WOHqkmA0O8U
 
@@ -64,3 +66,7 @@ Great work! Send it to [luiza.costa@provi.com.br] and you will receive instructi
 [ProviCapital]: https://github.com/provicapital/get_hired_training
 
 [luiza.costa@provi.com.br]: mailto:luiza.costa@provi.com.br
+
+[AQUI] https://forms.gle/KQTvbTXmPH9TDNoy8
+
+[Inscreva-se aqui] https://forms.gle/KQTvbTXmPH9TDNoy8
