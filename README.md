@@ -54,7 +54,7 @@ O objetivo é construir um software que administrará um sistema de login. Em um
 
 ### 💯  Quer ir além?
 
-Se voluntarie para participar da simulação da entrevista técnica. Oportunidade para você fazer a resolução do seu desafio e receber feedbacks ao vivo do nosso CTO para evoluir ainda mais! [Inscreva-se aqui]
+- Se voluntarie para participar da simulação da entrevista técnica. Oportunidade para você fazer a resolução do seu desafio e receber feedbacks ao vivo do nosso CTO para evoluir ainda mais! [Inscreva-se aqui]
 
 
 [Aqui]: https://www.youtube.com/watch?v=WOHqkmA0O8U
