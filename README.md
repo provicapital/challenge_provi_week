@@ -67,6 +67,6 @@ Se voluntarie para participar da simulação da entrevista técnica. Oportunidad
 
 [luiza.costa@provi.com.br]: mailto:luiza.costa@provi.com.br
 
-[AQUI] https://forms.gle/KQTvbTXmPH9TDNoy8
+[AQUI]: https://forms.gle/KQTvbTXmPH9TDNoy8
 
-[Inscreva-se aqui] https://forms.gle/KQTvbTXmPH9TDNoy8
+[Inscreva-se aqui]: https://forms.gle/KQTvbTXmPH9TDNoy8
